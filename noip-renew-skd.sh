@@ -2,7 +2,7 @@
 Min=30
 Hour=0
 USER=
-SUDO=sudo
+SUDO=
 LOGDIR=/var/log/noip-renew/$USER
 INSTDIR=/usr/local/bin
 INSTEXE=$INSTDIR/noip-renew-$USER.sh
